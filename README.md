@@ -1,5 +1,11 @@
 # R_Programming
-Using R programming for data tasks.
+Using R programming for data tasks
+
+---
+
+Life expectancy explained by GDP per capita
+![image](https://github.com/Christopher-DSA/R_Programming/assets/132075292/34e42af1-75c4-49f6-a8bb-1f20b3ddc1c1)
+
 
 Chicken Weight Described by Feed Plot
 ![image](https://github.com/Christopher-DSA/R_Programming/assets/132075292/4c5bff64-12a4-4449-a2eb-821891a09bd6)
