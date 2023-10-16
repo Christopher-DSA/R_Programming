@@ -12,6 +12,7 @@ Chicken Weight Described by Feed Plot
 
 Toronto Daily Temperatures in January 2022
 
-![image](https://github.com/Christopher-DSA/R_Programming/assets/132075292/5afb3036-ae41-4c67-ac0e-3ffe07419270)
+![image](https://github.com/Christopher-DSA/R_Programming/assets/132075292/86aa548c-aa0e-4757-a1ea-7cc8d245912f)
+
 
 
